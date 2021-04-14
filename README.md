@@ -2,8 +2,7 @@
 Software for efficient mass isotopomer distribution analysis in metabolic modelling.
 
 # Executable
-Available to download at GitHub i.e., "LS-MIDA.exe"
-Compatible with Microsoft Windows Operating Systems.
+Available to download at GitHub i.e., "LS-MIDA.exe" (Compatible with Microsoft Windows Operating Systems)
 
 # Publication
 Ahmed, Z., Zeeshan, S., Huber, C., Hensel, M., Schomburg, D., Münch, R., Eisenreich, W., & Dandekar, T. (2013). 
